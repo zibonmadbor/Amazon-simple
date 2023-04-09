@@ -1,0 +1,23 @@
+.cart {
+    position: sticky;
+    top: 0;
+}
+
+.cart-dlt-all {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FF3030;
+    border-radius: 4px;
+    color: white;
+}
+
+.btn-proceed {
+    width: 100%;
+    background: #FF9900;
+    border-radius: 4px;
+    color: white;
+    margin-top: 16px;
+    
+}
